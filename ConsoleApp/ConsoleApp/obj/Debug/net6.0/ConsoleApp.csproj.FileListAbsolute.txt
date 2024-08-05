@@ -1,0 +1,15 @@
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.sourcelink.json
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\GTR\Desktop\CAREER_PREPARATION\PRICING_PROJECT\IT-QUANT_PUB\Projet_BS-MC\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
